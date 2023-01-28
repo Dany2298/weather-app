@@ -20,7 +20,7 @@ code {
 }
 
 p{
-  font-size: 1.6rem;
+  font-size: 1.25rem;
 }
 
 h1 {
@@ -68,6 +68,7 @@ h1 {
   right: -90%;
   transform-origin: 0 0;
   transform: rotate(270deg);
+
 }
 
 .app .bottom{
